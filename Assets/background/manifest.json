@@ -1,0 +1,219 @@
+{
+  "backgrounds": [
+    {
+      "id": "refuge_evening",
+      "logical_path": "logical/refuge_evening.png",
+      "logical_sha256": "0acbe753f7251085bf99311c5471e3925ffa284983d674fce3e8e266fbbb467b",
+      "name_ko": "저녁 쉼터",
+      "runtime_path": "runtime/refuge_evening.png",
+      "runtime_sha256": "63db4c520570fbf08b42d8aa09856012a7144883331ee0626eb1a828a629bcb0",
+      "source_path": "source/refuge_evening.png",
+      "source_sha256": "8bcfb0ef7847ed42fd135a394fb1874f43ecec452738cd5942e5caf8feb79667"
+    },
+    {
+      "id": "refuge_rain",
+      "logical_path": "logical/refuge_rain.png",
+      "logical_sha256": "fab8ba123357fe454c2537e624af44df97405c3b09fb08d13b1747922de65b5d",
+      "name_ko": "비 온 뒤 쉼터",
+      "runtime_path": "runtime/refuge_rain.png",
+      "runtime_sha256": "8335502d86246729ce57b1ad9f581d1eb2185556fb745ec7db539d5c1faf90d5",
+      "source_path": "source/refuge_rain.png",
+      "source_sha256": "51905ffb448e9d55047a1cae1de9dec267d30b7605b2f5ea86da084437d05732"
+    },
+    {
+      "id": "forest_path",
+      "logical_path": "logical/forest_path.png",
+      "logical_sha256": "ee7d4ee0d066e9755635cc3f8f8103dbe26395fb2b8a3104d219cf30b80a8012",
+      "name_ko": "달빛 숲 공터",
+      "runtime_path": "runtime/forest_path.png",
+      "runtime_sha256": "87c449728cdb2f284d62d1de65c064e5efd56d7d4f1feb9614ff59c7e77c59d4",
+      "source_path": "source/forest_path.png",
+      "source_sha256": "ec45e68a0169f8b970bc11a4abf374a374007389da0439a8ea826d522a61d28d"
+    },
+    {
+      "id": "mine_entry",
+      "logical_path": "logical/mine_entry.png",
+      "logical_sha256": "0e59ab51620d4a08d2436e0e938704acfc4d627619791a9fb3301dc1717d7256",
+      "name_ko": "폐광 입구 갱실",
+      "runtime_path": "runtime/mine_entry.png",
+      "runtime_sha256": "8a83b7535f56efcd6deb4a4225673938f9434d17d67935c38764a51c5bfcc77c",
+      "source_path": "source/mine_entry.png",
+      "source_sha256": "697ccd304bf552d8287dc3e5fd7c197dd61bf47d5552625d7047a0b137d610ac"
+    },
+    {
+      "id": "flooded_gallery",
+      "logical_path": "logical/flooded_gallery.png",
+      "logical_sha256": "d4e91c33942ad1fedcef396967a7522688544097a8f25f01191d097370333e6c",
+      "name_ko": "물이 고인 갱도",
+      "runtime_path": "runtime/flooded_gallery.png",
+      "runtime_sha256": "fb2e792665eef924e8e95520a59128ca91ad2ebd0ef6152aa7c106ac8d342df2",
+      "source_path": "source/flooded_gallery.png",
+      "source_sha256": "0a62e2818244afc9a10a5f4112b9353f9916ff56d58032f8d88542cd1c1d23e2"
+    },
+    {
+      "id": "forge_depot",
+      "logical_path": "logical/forge_depot.png",
+      "logical_sha256": "31cb86890d27bd840970a0475539fdac85659f90ea5e4c182dfc24f8ee3b4a68",
+      "name_ko": "버려진 제련소",
+      "runtime_path": "runtime/forge_depot.png",
+      "runtime_sha256": "cb5a7dfdbfe9948f7d1596dceb5ab09e71f2614863a3235fe274673fcccc3572",
+      "source_path": "source/forge_depot.png",
+      "source_sha256": "4166d2345ffedbb59688d7de9f701381c9e1e524a2fd02ae17b2a574255567ed"
+    },
+    {
+      "id": "crystal_chamber",
+      "logical_path": "logical/crystal_chamber.png",
+      "logical_sha256": "3d3229e3620985fd42262730aa68b2529d91aebbb9aed6209f3f4cc2c65baa59",
+      "name_ko": "청록 수정 동굴",
+      "runtime_path": "runtime/crystal_chamber.png",
+      "runtime_sha256": "3c15c2b470612412e1b80eb38a61913e391cea2d321c9aafd5174133a65077d5",
+      "source_path": "source/crystal_chamber.png",
+      "source_sha256": "26870da95b92a388064bee95f2e6755aa5b022082fc2c3221cc70a2efdf25063"
+    },
+    {
+      "id": "warden_arena",
+      "logical_path": "logical/warden_arena.png",
+      "logical_sha256": "02a1c5f8f9a0b4d990820be44675f33b9e9f72d8a1b7dfbad6729936edddc08e",
+      "name_ko": "파수꾼의 방",
+      "runtime_path": "runtime/warden_arena.png",
+      "runtime_sha256": "cb8f3aa452e798663cb935e44bdcb360f4c38c837d8a5b36391297ee9916e667",
+      "source_path": "source/warden_arena.png",
+      "source_sha256": "be60bb5cc1062392685083db31f6c910aebe211b8ce06bc1a199b0d12c3a4ba2"
+    }
+  ],
+  "files": [
+    {
+      "path": "contact-sheets/overview.png",
+      "sha256": "a2988b7e3d4803afc586839a6273ede81d6b3fae3d97649eead501e1031319a1"
+    },
+    {
+      "path": "logical/crystal_chamber.png",
+      "sha256": "3d3229e3620985fd42262730aa68b2529d91aebbb9aed6209f3f4cc2c65baa59"
+    },
+    {
+      "path": "logical/flooded_gallery.png",
+      "sha256": "d4e91c33942ad1fedcef396967a7522688544097a8f25f01191d097370333e6c"
+    },
+    {
+      "path": "logical/forest_path.png",
+      "sha256": "ee7d4ee0d066e9755635cc3f8f8103dbe26395fb2b8a3104d219cf30b80a8012"
+    },
+    {
+      "path": "logical/forge_depot.png",
+      "sha256": "31cb86890d27bd840970a0475539fdac85659f90ea5e4c182dfc24f8ee3b4a68"
+    },
+    {
+      "path": "logical/mine_entry.png",
+      "sha256": "0e59ab51620d4a08d2436e0e938704acfc4d627619791a9fb3301dc1717d7256"
+    },
+    {
+      "path": "logical/refuge_evening.png",
+      "sha256": "0acbe753f7251085bf99311c5471e3925ffa284983d674fce3e8e266fbbb467b"
+    },
+    {
+      "path": "logical/refuge_rain.png",
+      "sha256": "fab8ba123357fe454c2537e624af44df97405c3b09fb08d13b1747922de65b5d"
+    },
+    {
+      "path": "logical/warden_arena.png",
+      "sha256": "02a1c5f8f9a0b4d990820be44675f33b9e9f72d8a1b7dfbad6729936edddc08e"
+    },
+    {
+      "path": "runtime/crystal_chamber.png",
+      "sha256": "3c15c2b470612412e1b80eb38a61913e391cea2d321c9aafd5174133a65077d5"
+    },
+    {
+      "path": "runtime/flooded_gallery.png",
+      "sha256": "fb2e792665eef924e8e95520a59128ca91ad2ebd0ef6152aa7c106ac8d342df2"
+    },
+    {
+      "path": "runtime/forest_path.png",
+      "sha256": "87c449728cdb2f284d62d1de65c064e5efd56d7d4f1feb9614ff59c7e77c59d4"
+    },
+    {
+      "path": "runtime/forge_depot.png",
+      "sha256": "cb5a7dfdbfe9948f7d1596dceb5ab09e71f2614863a3235fe274673fcccc3572"
+    },
+    {
+      "path": "runtime/mine_entry.png",
+      "sha256": "8a83b7535f56efcd6deb4a4225673938f9434d17d67935c38764a51c5bfcc77c"
+    },
+    {
+      "path": "runtime/refuge_evening.png",
+      "sha256": "63db4c520570fbf08b42d8aa09856012a7144883331ee0626eb1a828a629bcb0"
+    },
+    {
+      "path": "runtime/refuge_rain.png",
+      "sha256": "8335502d86246729ce57b1ad9f581d1eb2185556fb745ec7db539d5c1faf90d5"
+    },
+    {
+      "path": "runtime/warden_arena.png",
+      "sha256": "cb8f3aa452e798663cb935e44bdcb360f4c38c837d8a5b36391297ee9916e667"
+    },
+    {
+      "path": "source/crystal_chamber.png",
+      "sha256": "26870da95b92a388064bee95f2e6755aa5b022082fc2c3221cc70a2efdf25063"
+    },
+    {
+      "path": "source/flooded_gallery.png",
+      "sha256": "0a62e2818244afc9a10a5f4112b9353f9916ff56d58032f8d88542cd1c1d23e2"
+    },
+    {
+      "path": "source/forest_path.png",
+      "sha256": "ec45e68a0169f8b970bc11a4abf374a374007389da0439a8ea826d522a61d28d"
+    },
+    {
+      "path": "source/forge_depot.png",
+      "sha256": "4166d2345ffedbb59688d7de9f701381c9e1e524a2fd02ae17b2a574255567ed"
+    },
+    {
+      "path": "source/mine_entry.png",
+      "sha256": "697ccd304bf552d8287dc3e5fd7c197dd61bf47d5552625d7047a0b137d610ac"
+    },
+    {
+      "path": "source/refuge_evening.png",
+      "sha256": "8bcfb0ef7847ed42fd135a394fb1874f43ecec452738cd5942e5caf8feb79667"
+    },
+    {
+      "path": "source/refuge_rain.png",
+      "sha256": "51905ffb448e9d55047a1cae1de9dec267d30b7605b2f5ea86da084437d05732"
+    },
+    {
+      "path": "source/warden_arena.png",
+      "sha256": "be60bb5cc1062392685083db31f6c910aebe211b8ce06bc1a199b0d12c3a4ba2"
+    }
+  ],
+  "pack": {
+    "id": "afterwork-backgrounds",
+    "source_count": 8
+  },
+  "pixels": {
+    "logical": [
+      480,
+      320
+    ],
+    "runtime": [
+      960,
+      640
+    ],
+    "source": [
+      1536,
+      1024
+    ]
+  },
+  "schema_version": 1,
+  "tiles": {
+    "runtime_tiles": [
+      30,
+      20
+    ],
+    "tile_px": 32
+  },
+  "verification": {
+    "collision_verified": false,
+    "gameplay_verified": false,
+    "native_registration_verified": false,
+    "seamless_tiling_verified": false,
+    "source_images_preserved": true
+  }
+}
